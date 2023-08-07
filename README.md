@@ -14,5 +14,5 @@ Todo 관리를 위한 웹 애플리케이션입니다.
 
 ## Project Wiki
 
-프로젝트 팀 정보, 기획, 이케틱쳐에 대한 자세한 안내입니다.
+프로젝트 팀 정보, 기획, 아키텍쳐에 대한 자세한 안내입니다.
 https://www.notion.so/codestates/Lucky7-833611e8dc5e4335bc593e0a0fcb32d2?pvs=4
